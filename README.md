@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dipan baidya
+- 👀 I’m interested in python,c,c++,web development
+- 🌱 I’m currently learning UEM
+- 💞️ I’m looking to collaborate on internships, projects, development
+- 📫 How to reach me: " baidyadipan14@gmail.com "
